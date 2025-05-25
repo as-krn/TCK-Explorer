@@ -27,11 +27,11 @@ TCK-Explorer/ <br/>
 It uses the Google Gemini API to respond strictly using the content of the official legal document — with article numbers and titles.
 
 ### 🚀 Features
-📄 Answers based on the TCK PDF file
-🧠 Powered by Google Gemini 1.5 Flash model
-💬 User interface built with Streamlit
-🕘 View previous questions in the sidebar and click to revisit
-💾 Automatically saves chat history to chat_history.json
+- 📄 Answers based on the TCK PDF file
+- 🧠 Powered by Google Gemini 1.5 Flash model
+- 💬 User interface built with Streamlit
+- 🕘 View previous questions in the sidebar and click to revisit
+- 💾 Automatically saves chat history to chat_history.json
 
 ## 📁 Project Structure
 TCK-Explorer/ <br/>
